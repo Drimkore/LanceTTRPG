@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Создание пилота
-nav_order: 3
+parent: Creation
+nav_order: 1
 ---
 
 
