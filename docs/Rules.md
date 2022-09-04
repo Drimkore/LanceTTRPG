@@ -1,3 +1,10 @@
+---
+layout: default
+title: Правила
+nav_order: 1
+---
+
+
 # Введение
 
 keywords
