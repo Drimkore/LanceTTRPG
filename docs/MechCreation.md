@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Создание пилота
+title: Создание меха
 nav_order: 2
 ---
 
