@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Правила для ведущего
-nav_order: 3
+nav_order: 5
 ---
 
 
